@@ -1,7 +1,11 @@
 # Getting Started Basic e-commerce with Create React App
 
+
+# About
+
 this is basic web e-commerce application using web api
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 
 ## Available Scripts
 
