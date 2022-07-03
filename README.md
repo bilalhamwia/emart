@@ -3,6 +3,10 @@
 
 this is basic web e-commerce application using web api
 
+## Features
+
+- This project was bootstrapped with [Create Reactjs App](https://reactjs.org).
+
 
 
 ## Available Scripts
