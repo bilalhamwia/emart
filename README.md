@@ -8,7 +8,9 @@ this is basic web e-commerce application using web api
 - This project was bootstrapped with [Create Reactjs App](https://reactjs.org).
 - This project was Bootstrap with [Bootstrap](https://getbootstrap.com/docs/5.2/getting-started/introduction/).
 - This project Using with webapi [Web Api](https://fakestoreapi.com/docs).
-
+- Customize card
+- Apply Filter Function
+- Configure React Router
 
 
 ## Available Scripts
